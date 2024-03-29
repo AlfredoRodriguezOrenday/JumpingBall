@@ -27,9 +27,9 @@ console.log("Hola mi nombre es Alfredo y este es uno de mis proyectos");
 
 Use diferentes propiedades de **css** para hacer esta pagina Web, intente explicarlas reglas usadas como **keyframes** y **media**. 
 
-**Quieres ver la pagina web? Da click aqui** :point_right: [Jumping Ball](https://alfredorodriguezorenday.github.io/JumpingBall/ "Jumping Ball")
+**Quieres ver la pagina web? Da click aqui** :point_right: [Jumping Ball](https://alfredorodriguezorenday.github.io/JumpingBall/ "Jumping Ball") :globe_with_meridians:
 
-**Inspiracion del proyecto, Da click aqui** :point_right: [Rotate Square](https://github.com/AlfredoRodriguezOrenday/Square_Rotation "Square Rotation")
+**Inspiracion del proyecto, Da click aqui** :point_right: [Rotate Square](https://github.com/AlfredoRodriguezOrenday/Square_Rotation "Square Rotation") :link:
 
 ---
 
