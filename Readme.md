@@ -11,9 +11,9 @@ console.log("Hello world, my name is Alfredo and this is one of my proyects");
 
 I use differents properties from **css** to do this Web site, in this project I try to explain the rules used like **keyframes** and **media**.
 
-**Do you want to see the page? Click here** :point_right: [Jumping Ball](https://alfredorodriguezorenday.github.io/JumpingBall/ "Jumping Ball")
+**Do you want to see the page? Click here** :point_right: [Jumping Ball](https://alfredorodriguezorenday.github.io/JumpingBall/ "Jumping Ball") :globe_with_meridians:
 
-**Inspiration of this project Click here** :point_right: [Rotate Square](https://github.com/AlfredoRodriguezOrenday/Square_Rotation "Square Rotation")
+**Inspiration of this project Click here** :point_right: [Rotate Square](https://github.com/AlfredoRodriguezOrenday/Square_Rotation "Square Rotation") :link:
 
 ---
 
